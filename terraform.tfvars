@@ -1,2 +1,2 @@
 project_id = "getteam"
-region     = "us-central1"
+region     = "us-east1-b"
